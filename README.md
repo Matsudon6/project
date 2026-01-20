@@ -5,7 +5,7 @@
 
 Le projet de machine learning Happiness Recipy est le projet Fil Rouge du Bootcamp  
 de Data Analyst réalisé entre juillet 2021 et septembre 2021 par moi-même Matthieu Estournet
-et mon binôme Axel Poulier pour la formation de Data Analyst de Datascientest.  
+et mon binôme Axel Poulier.  
 
 Il s'agit de la recherche de la meilleure prédiction de score du bonheur par pays  
 en fonction d'indicateurs socio-économiques.  
